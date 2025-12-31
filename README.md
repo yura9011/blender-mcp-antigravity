@@ -8,6 +8,8 @@
 
 A robust, **Windows-optimized** Model Context Protocol (MCP) server for Blender, specifically designed for **Antigravity** users.
 
+> **Note:** This is a detached fork of [Blender-MCP-For-Antigravity](https://github.com/kc0ed/Blender-MCP-For-Antigravity), streamlined for a fresh release.
+
 This fork fixes the critical "invalid trailing data" error caused by Windows stdio text mode handling, ensuring a stable connection between Antigravity and Blender.
 
 ## ✨ Key Features
